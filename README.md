@@ -12,4 +12,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://github.com/NihalDhadse?tab=repositories"> <h4>Show some appreciation by starring some of the repositories!</h4></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihaldhadse&" alt="nihaldhadse" /></p>
+
